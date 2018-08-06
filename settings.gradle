@@ -1,0 +1,5 @@
+rootProject.name = 'hello.spi'
+include 'exchange-rate-api'
+include 'exchange-rate-impl'
+include 'exchange-rate-app'
+
